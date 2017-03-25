@@ -1,0 +1,2 @@
+# inoxiequipos
+Proyecto formativo SENA
